@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">Full Stack & Backend Developer | MCA Student</h3>
+<h3 align="center">Full Stack & Backend Developer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-gupta-93a406283/">
@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **300+ Leetcode problems**
+- ✅ Solved **350+ Leetcode problems**
 - 📈 Improved PostgreSQL query speed by **35%**
 - 🥇 Top **10%** in university coding contests
 - 🚀 95% API response reliability
