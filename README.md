@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **350+ Leetcode problems**
+- ✅ Solved **400+ Leetcode problems**
 - 📈 Improved PostgreSQL query speed by **35%**
 - 🥇 Top **10%** in university coding contests
 - 🚀 95% API response reliability
