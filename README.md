@@ -19,7 +19,7 @@
 
 - 💻 Backend-focused Full Stack Developer  
 - ⚙️ Strong in **Node.js, Express, MongoDB, PostgreSQL**
-- 🧠 Solved **400+ DSA problems**   
+- 🧠 Solved **600+ DSA problems**   
 - 🚀 Love building **scalable APIs & real-time systems**
 - 🤝 Open to **backend, system design & open-source collaboration**
 
