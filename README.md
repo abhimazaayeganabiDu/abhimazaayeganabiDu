@@ -19,7 +19,7 @@
 
 - 💻 Backend-focused Full Stack Developer  
 - ⚙️ Strong in **Node.js, Express, MongoDB, PostgreSQL**
-- 🧠 Solved **600+ DSA problems**   
+- 🧠 Solved **800+ DSA problems**   
 - 🚀 Love building **scalable APIs & real-time systems**
 - 🤝 Open to **backend, system design & open-source collaboration**
 
@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **400+ Leetcode problems**
+- ✅ Solved **600+ Leetcode problems**
 - 📈 Improved PostgreSQL query speed by **35%**
 - 🥇 Top **10%** in university coding contests
 - 🚀 95% API response reliability
@@ -64,6 +64,6 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: **adityagupta9825@gmail.com**
+- 📧 Email: **adityagupa.work.24@gmail.com**
 - 💼 LinkedIn: [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta-93a406283/)
 - 🧠 LeetCode: [aditya_gupta1255](https://leetcode.com/u/aditya_gupta1255/)
